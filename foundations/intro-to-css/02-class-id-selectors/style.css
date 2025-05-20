@@ -1,0 +1,23 @@
+
+p{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+p.blood {
+background-color: #880808;
+color: #FFFFF0;
+}
+
+p.soaked{
+    font-size: 36px;
+}
+
+#bullet{
+    font-size: 50px;
+}
+
+#stained{
+    background-color: #9CAF88;
+    font-size: 24px;
+    font-weight: bold;
+}
